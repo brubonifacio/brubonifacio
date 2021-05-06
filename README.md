@@ -2,7 +2,7 @@
 
 
 ### - :sunflower: I'm Bruna Bonifácio
-### - :computer:	I'm a developer in training
-### - :books: I'm specializing in full stack
+### - :computer:	Developer in training
+### - :books: And i'm specializing in full stack
 
 
