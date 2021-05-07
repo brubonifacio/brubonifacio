@@ -1,9 +1,10 @@
 <img align="right" width="400px" src="https://github.com/brubonifacio/brubonifacio/blob/main/source.gif">
 
+# - :cherry_blossom:	HELLO WORLD! :cherry_blossom:	
 
-### - :sunflower: I'm Bruna Bonifácio
-### - :computer:	Developer in training
-### - :books: And i'm specializing in full stack
+### - :two_hearts: I'm Bruna Bonifácio
+### - :computer: Developer in training
+### - :dizzy: And i'm specializing in full stack
 
 
 ## Connect with me 
