@@ -1,4 +1,4 @@
-## Hi there 👋
+<img align="right" width="400px" src="https://github.com/brubonifacio/brubonifacio/blob/main/source.gif">
 
 
 ### - :sunflower: I'm Bruna Bonifácio
