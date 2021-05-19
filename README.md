@@ -10,7 +10,7 @@
 ## Connect with me 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brubonifacio95@gmail.com)](mailto:brubonifacio95@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-bonif%C3%A1cio-297197208/)](https://www.linkedin.com/in/bruna-bonif%C3%A1cio-297197208/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-bonif%C3%A1cio-/)](https://www.linkedin.com/in/bruna-bonif%C3%A1cio-/)
 
 ## My Skills
 
