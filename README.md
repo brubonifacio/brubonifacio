@@ -1,4 +1,3 @@
-<img align="right" width="400px" src="https://github.com/brubonifacio/brubonifacio/blob/main/source.gif">
 
 #  :cherry_blossom:	HELLO WORLD! 
 
